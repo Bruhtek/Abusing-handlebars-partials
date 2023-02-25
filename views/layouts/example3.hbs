@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>
+        {{#> title}}
+            {{!-- Domyślny tytuł - może zostać nadpisany na każdej stronie --}}
+            To jest domyślny tytuł
+        {{/title}}
+    </title>
+
+    {{#> head}}
+        {{!-- Dodatkowa zawartość head'a - <link>, <script> --}}
+    {{/head}}
+</head>
+<body>
+    {{#> body}}
+        {{!-- Zawartość strony --}}
+    {{/body}}
+</body>
+</html>
