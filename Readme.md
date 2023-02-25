@@ -179,3 +179,7 @@ Aby uruchomić przykład, należy:
 - Zainstalować moduły za pomocą `npm install`
 - Uruchomić serwer za pomocą `npm start`
 - Wejść na stronę `localhost:3000`
+
+## Źródła
+- [Handlebars.js](https://handlebarsjs.com/)
+- [The hidden power of handlebars partials](https://cloudfour.com/thinks/the-hidden-power-of-handlebars-partials/)
