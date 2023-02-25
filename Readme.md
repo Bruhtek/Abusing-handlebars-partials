@@ -168,6 +168,8 @@ Ten przykład wykorzystuje pliki:
 - `views/example4.hbs`
 - `views/example4b.hbs`
 
+Wykorzystuje on dodatkowe nestowanie partialsów, co pozwala na stworzenie dodatkowo skomplikowanych layoutów. Jest to jednak kod za długi, aby go tutaj umieścić, proszę więc o zajrzenie do plików aby zobaczyć działanie tego mechanizmu
+
 *(Przykład 4)*<br>
 
 ---
